@@ -1,0 +1,22 @@
+[
+    {
+        "role": "system",
+        "content": "You're an AI assistant."
+    },
+    {
+        "role": "user",
+        "content": "plot me bar graph aircrafttype vs estimated fuel burn taxi out tonnes"
+    },
+    {
+        "role": "assistant",
+        "content": "\n            Generate the code <code> for plotting the previous data in plotly,\n            in the format requested. The solution should be given using plotly\n            and only plotly. Do not use matplotlib.\n            Return the code <code> in the following\n            format ```python <code>```\n        "
+    },
+    {
+        "role": "assistant",
+        "content": "\n            Generate the code <code> for plotting the previous data in plotly,\n            in the format requested. The solution should be given using plotly\n            and only plotly. Do not use matplotlib.\n            Return the code <code> in the following\n            format ```python <code>```\n        "
+    },
+    {
+        "role": "assistant",
+        "content": "OHHH HELL NAWHHHHH"
+    }
+]

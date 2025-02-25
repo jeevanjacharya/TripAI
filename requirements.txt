@@ -1,0 +1,6 @@
+pandas
+streamlit
+streamlit-chat
+pdfplumber
+seaborn
+matplotlib
